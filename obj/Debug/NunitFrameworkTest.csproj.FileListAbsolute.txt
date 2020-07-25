@@ -1,0 +1,16 @@
+C:\Users\Chapel\source\repos\NunitFrameworkTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Chapel\source\repos\NunitFrameworkTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Chapel\source\repos\NunitFrameworkTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Chapel\source\repos\NunitFrameworkTest\bin\Debug\NunitFrameworkTest.dll
+C:\Users\Chapel\source\repos\NunitFrameworkTest\bin\Debug\NunitFrameworkTest.pdb
+C:\Users\Chapel\source\repos\NunitFrameworkTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Chapel\source\repos\NunitFrameworkTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Chapel\source\repos\NunitFrameworkTest\bin\Debug\nunit.framework.dll
+C:\Users\Chapel\source\repos\NunitFrameworkTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Chapel\source\repos\NunitFrameworkTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Chapel\source\repos\NunitFrameworkTest\bin\Debug\nunit.framework.pdb
+C:\Users\Chapel\source\repos\NunitFrameworkTest\bin\Debug\nunit.framework.xml
+C:\Users\Chapel\source\repos\NunitFrameworkTest\obj\Debug\NunitFrameworkTest.csprojAssemblyReference.cache
+C:\Users\Chapel\source\repos\NunitFrameworkTest\obj\Debug\NunitFrameworkTest.csproj.CopyComplete
+C:\Users\Chapel\source\repos\NunitFrameworkTest\obj\Debug\NunitFrameworkTest.dll
+C:\Users\Chapel\source\repos\NunitFrameworkTest\obj\Debug\NunitFrameworkTest.pdb
